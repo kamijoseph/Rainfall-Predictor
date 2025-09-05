@@ -21,7 +21,7 @@ st.divider()
 st.subheader("Models Predicts if it will rain based on weather parameters.")
 
 # ----- User Inputs -----
-st.header("Enter Weather Parameters")
+st.header("Enter Weather Parameters:")
 
 # Split inputs into two columns for a cleaner UI
 col1, col2 = st.columns(2)
