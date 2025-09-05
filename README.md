@@ -4,9 +4,12 @@
 
 ---
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)  
-[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b.svg)](https://streamlit.io/)  
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+
+[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b.svg)](https://streamlit.io/)
+
 [![Model](https://img.shields.io/badge/Model-Logistic%20Regression-brightgreen.svg)](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)  
+
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 This project is an interactive **rainfall prediction tool** built with **Streamlit** and powered by a trained **Logistic Regression** model. Users can input real-time weather parameters and obtain predictions for **rainfall occurrence**.
