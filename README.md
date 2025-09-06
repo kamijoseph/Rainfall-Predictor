@@ -96,8 +96,6 @@ streamlit run main.py
 ## 🙋‍♂️ Questions or Feedback?
 
 Feel free to open an issue or reach out if you have suggestions, questions, or ideas to improve this project.
-Built by @kamijoseph using Streamlit
-
 ---
 
 ### Built by [@kamijoseph](https://github.com/kamijoseph) using [Streamlit](https://streamlit.io/)
