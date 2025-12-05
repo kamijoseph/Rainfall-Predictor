@@ -1,6 +1,6 @@
 # 🌦️ Streamlit Rainfall Prediction WebApp
 
-🔗 **Live Demo**: [Click here to try the deployed app](https://dxqvqgszvwaiu889yccfmv.streamlit.app/)
+🔗 **Live Demo**: [Click here to try the deployed app](https://rainfall-predictor-webapp.streamlit.app/)
 
 ---
 
